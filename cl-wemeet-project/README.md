@@ -26,11 +26,10 @@
 
 | 기능 | 설명 | 실제 화면 |
 |------|-------|------------|
-| **실시간 채팅** | Node.js + Express 기반 실시간 채팅 시스템 | ![채팅 화면](img/chatbot.png) |
-| **Azure 클라우드 퀴즈** | 60문항 JSON 기반 랜덤 출제<br>실시간 정답 확인 + 점수 표시 | (<img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_1.png" width="260"> <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_2.png" width="260">) |
-| **퀴즈 인사이트** | 자주 틀리는 문제·자주 맞는 문제를 시각적으로 제공 |  <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_3.png" width="260"> |
-| **언어 장벽 없는 회의** | Azure 서비스를 귀여운 4컷 만화로 이해 | ![만화 설명](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/webtoon_home.png) |
-| **웹툰 추천 인덱스** | 귀여운 로봇이 안내하는 자동 슬라이드 웹툰 추천 | ![웹툰 인덱스](https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/webtoon_language.png) |
+| **실시간 채팅** | Node.js + Express 기반 실시간 채팅 시스템 | <img src="img/chatbot.png" width="260"> |
+| **Azure 클라우드 퀴즈** | 60문항 JSON 기반 랜덤 출제<br>실시간 정답 확인 + 점수 표시 | <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_wrong_example.jpg" width="260"> <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_right_example.jpg" width="260"> |
+| **퀴즈 인사이트** | 자주 틀리는 문제·자주 맞는 문제 시각화 제공 | <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_1.png" width="260"> <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_2.png" width="260"> <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/quiz_3.png" width="260"> |
+| **웹툰 기능** | AI 기반 웹툰 자동 생성·추천 기능 제공 | <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/webtoon_language.png" width="260"> <img src="https://raw.githubusercontent.com/INJAE0818/Choi_Projects/main/cl-wemeet-project/img/webtoon_home.png" width="260"> |
 | **완전 반응형 디자인** | 모바일 · 태블릿 · 데스크톱 모두 최적화 | 모든 페이지에서 적용 |
 
 <br>
